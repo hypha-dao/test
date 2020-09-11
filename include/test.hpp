@@ -6,6 +6,6 @@ CONTRACT test : public contract {
       using contract::contract;
 
       ACTION hi( name nm );
-      ACTION bye( name nm );
+      // ACTION bye( name nm );
 
 };
